@@ -1,0 +1,16 @@
+{
+  "name": "libros-backend",
+  "version": "0.1",
+  "description": "Esto es una página web acerca de libros",
+  "type": "module",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "author": "Angel Egido y Hector Main",
+  "license": "GPL-2.0-only",
+
+  "dependencies": {
+    "express": "^4.21.1",
+    "cors": "^2.8.6"
+  }
+}
